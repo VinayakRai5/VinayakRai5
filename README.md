@@ -3,14 +3,6 @@
 <h1>Hi 👋, I'm Vinayak Rai</h1>
 <h3>A passionate Web-developer, Designer & Data Scientist</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VinayakRai5" alt="VinayakRai5" />
-  </a> 
-</p>
-
-
-
 - 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently honing my skills in **MERN stack**
