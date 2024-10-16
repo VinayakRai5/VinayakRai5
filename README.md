@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayakRai5&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakRai5" /> </p>
 
+<p ![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg) /> </p>
+
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
