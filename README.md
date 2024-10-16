@@ -33,8 +33,8 @@
 ### :fire: My Stats :
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PlatJack&theme=onedark-duo)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VinayakRai5&theme=onedark-duo)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlatJack&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakRai5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
