@@ -3,6 +3,8 @@
 <h1>Hi 👋, I'm Vinayak Rai</h1>
 <h3>A passionate Web-developer, Designer & Data Scientist</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryantn05" alt="aryantn05" /></a> </p>
+
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
