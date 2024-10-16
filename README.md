@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PlatJack&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=VinayakRai5&style=flat-square&color=blue" alt=""/>
 </div>
 
 - 🔭 I’m currently working on **My Portfolio Website**
