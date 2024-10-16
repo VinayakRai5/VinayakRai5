@@ -7,7 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=VinayakRai5&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakRai5" /> 
 </p>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PlatJack&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
