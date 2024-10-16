@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1>Hi 👋, I'm Vinayak Rai</h1>
-<h3>A passionate Web-developer, Designer & Data Scientist from India</h3>
+<h3>A passionate Web-developer, Designer & Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitoshsable&label=Profile%20views&color=0e75b6&style=flat" alt="ashitoshsable" /> </p>
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **React.js, Node.js**
 
 - 🌐 This is my **[Portfolio Website](https://vinayakrai.netlify.app)**
+
+- 📄 I have published research papers in **[IEEE TALE](https://2024.tale-conference.org/)** and **[T4E](https://etsociety.org/t4e2024/)**
 
 - 📫 How to reach me **vinayakmr2003@gmail.com**
 
