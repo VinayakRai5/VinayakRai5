@@ -3,8 +3,8 @@
 <h1>Hi 👋, I'm Vinayak Rai</h1>
 <h3>A passionate Web-developer, Designer & Data Scientist</h3>
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/VinayakRai5/count.svg" alt="Visitor Count" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=VinayakRai5&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakRai5" /> 
 </p>
 
 
