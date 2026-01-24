@@ -3,11 +3,11 @@
 <h1>Hi 👋, I'm Vinayak Rai</h1>
 <h3>A passionate AI Engineer, Web-developer & Data Scientist</h3>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **Diffusion models and LLMs**
 
-- 🌱 I’m currently honing my skills in **MERN stack**
+- 🌱 I’m currently honing my skills in **Optimizing, scaling and Deploying AI Models**
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **Artificial Intelligence, Deep Learning**
 
 - 🌐 This is my **[Portfolio Website](https://vinayakrai.netlify.app)**
 
